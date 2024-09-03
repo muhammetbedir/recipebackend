@@ -21,4 +21,4 @@ The project is organized into the following layers:
 - **Elasticsearch**: A distributed search and analytics engine used for storing and searching large volumes of data efficiently.
 - **Entity Framework Core**: An ORM (Object-Relational Mapper) used for data access.
 - **AutoMapper**: A library used for mapping objects between different types.
-- 
+  
